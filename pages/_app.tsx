@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         Skip to main content
       </a>
       <div className="flex flex-col max-w-3xl mx-auto min-h-full px-4">
-<script>
+      <script>
     window.goatcounter = {no_onload: true}
 
     window.addEventListener('hashchange', function(e) {
