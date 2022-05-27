@@ -22,7 +22,8 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
               <a href="https://github.com/alexcarpenter/nextjs-mdx-blog-theme">
                 Github
               </a>
-              .
+              .<script data-goatcounter="https://tinypro.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
             </p>
           </>
         }
