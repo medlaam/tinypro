@@ -18,6 +18,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         Skip to main content
       </a>
       <div className="flex flex-col max-w-3xl mx-auto min-h-full px-4">
+      <script data-goatcounter="https://tinypro.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
         <Header />
         <main id="main">
           <Component {...pageProps} />
