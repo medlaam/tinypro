@@ -11,6 +11,8 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
+      <script data-goatcounter="https://tinypro.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
         <Head />
         <body
           className={cx(
